@@ -14,6 +14,18 @@ Notes:
 - The input list will only contain integers.
 """
 
+# U.P.E.R:
+    # UNDERSTAND
+        # given a string
+        #  numbers with ", " seperators
+        #  ned to multiply all numbers in strings
+    # EDGE CASES
+        # can it have negatives or decimals? No
+        # one number? sure
+        # empty string? no
+    # PLAN
+        # break into sub problems:
+        # 
 
 def add_indexes(numbers):
     # Your code here
